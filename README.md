@@ -27,7 +27,7 @@
 ---
 Scan QR Code
 
-1. ***Get [`SESSION ID 1`](https://replit.com/@elekwachicollin/Zeal-Md?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID 1`](https://replit.com/@zealmd20/Zeal-Md?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/Zeal-md/ZEAL-MD/fork)***
