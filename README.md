@@ -23,7 +23,17 @@
     <a href="https://chat.whatsapp.com/BeDWQWsACrLDF7Tin2KZo2" target="_blank">
       <img alt="whatsapp Group" src="https://img.shields.io/badge/ ZEAL Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
     </a>
+    
+
+    
+
+<p align="right">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/zeal-md/ZEAL-MD" />
+  </a>
   </p>
+
+  <p align="center"><img src="https://profile-counter.glitch.me/{zeal-md}/count.svg" alt="zeal-md :: Visitor's Count" /></p>
 ---
 Scan QR Code
 
