@@ -55,7 +55,7 @@ cmd({
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'IZUKU  Session',
+                        title: 'ZEAL  Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
