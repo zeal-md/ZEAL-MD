@@ -38,7 +38,7 @@ cmd({
             desc: "text to speech.",
             category: "downloader",
             filename: __filename,
-            use: '<Hii,this is izuku>',
+            use: '<Hii,this is Zeal>',
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply('Please give me a Sentence to change into audio.')
