@@ -36,18 +36,18 @@ Secktor.cmd({
         async(Void, citel) => {
             const { commands } = require('../lib');
             let str = `
-┏━━━━━•❃〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙❃•━━━━━┓`
+┏━━━━━•❣❣❃〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙❃❣❣•━━━━━┓`
             str += `
 ┃ ⛥┏━━━━━•❃°•°•━━━━━•❃°•°•      
-•͙͙✧⃝•͙ User: ${citel.pushName}
+•͙͙✧•͙ User: ${citel.pushName}
 •͙͙✧⃝•͙ Theme: ${tlang().title}
-•͙͙✧⃝•͙│ Prefix: ${prefix}
+•͙͙✧•͙│ Prefix: ${prefix}
 •͙͙✧⃝•͙ Owner: ${Config.ownername}
-•͙͙✧⃝•͙ Commands: ${commands.length}
+•͙͙✧•͙ Commands: ${commands.length}
 •͙͙✧⃝•͙ Uptime: ${runtime(process.uptime())}
-•͙͙✧⃝•͙ Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+•͙͙✧•͙ Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 •͙͙✧⃝•͙  
-•͙͙✧⃝┗━━━━━•❃°•°•━━━━━•❃°•°•
+•͙͙✧┗━━━━━•❣❣❃°•°•━━━━━•❣❣❃°•°•
 ┗━━━━━•❃°•°•━━━━━•❃°•°•\n`
 for (let i = 0; i < commands.length; i++) 
 {
