@@ -20,7 +20,7 @@
     <div hx-get="/visitor_count" hx-target="this" hx-swap="innerHTML"></div>
   </p>
   <p align="center">
-    <a href="https://chat.whatsapp.com/BeDWQWsACrLDF7Tin2KZo2" target="_blank">
+    <a href="https://chat.whatsapp.com/FRn0L3Unxau4Lb4pbH6BEi" target="_blank">
       <img alt="whatsapp Group" src="https://img.shields.io/badge/ ZEAL Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
     </a>
     
@@ -150,5 +150,5 @@ _I can't guarantee or can be held responsible if you get blocked or banned by us
 
 +2349138508805
 ❣️
-<a href="https://chat.whatsapp.com/BeDWQWsACrLDF7Tin2KZo2" target="_blank">
+<a href="https://chat.whatsapp.com/FRn0L3Unxau4Lb4pbH6BEi" target="_blank">
       <img alt="whatsapp Group" src="https://img.shields.io/badge/ ZEAL Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
