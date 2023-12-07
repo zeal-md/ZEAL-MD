@@ -73,7 +73,7 @@ Scan QR Code
     <h4 align="center">Deploy on RailWay</h4>
     <p align="center">
       <a href="https://railway.app/new">
-        <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
+        <img src="https://railway.app/template/referralCode=HKJp4z" alt="Deploy on Railway" width="170px">
       </a>
     </p>
     <br>
