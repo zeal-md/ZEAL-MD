@@ -53,20 +53,6 @@ Scan QR Code
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+ZEAL-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ZEAL;DEPLOYMENT+OF+ZEAL-MD;WORKS+ON;HEROKU✅✅+AND+RAILWAY✅✅;WORKING+ON+OTHER+FUNCTIONS;LOVE+❣️+YOU+ALL;PUBLIC+RELESED; ...;TEAM ZEAL-MD." alt="Typing SVG" /></a>
   </p>
   <br>
-    <h4 align="center">Deploy on Repl.it</h4>
-    <p align="center">
-      <a href="https://repl.it/github/Zeal-md/ZEAL-MD">
-        <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT">
-      </a>
-    </p>
-    <br>
-    <h4 align="center">Deploy on CodesSpace</h4>
-    <p align="center">
-      <a href="https://github.com/codespaces/new">
-        <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces">
-      </a>
-    </p>
-    <br>
     <h4 align="center">Deploy on Heroku</h4>
     <p align="center">
       <a href="https://heroku.com/deploy?template=https://github.com/Zeal-md/ZEAL-MD">
@@ -93,6 +79,19 @@ Scan QR Code
     <a href="https://www.uffizzi.com/">
     <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
     </a>
+</p>
+<br>
+<h4 align="center">Deploy on Repl.it</h4>
+    <p align="center">
+      <a href="https://repl.it/github/Zeal-md/ZEAL-MD">
+        <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT">
+      </a>
+    </p>
+    <br>
+    <h4 align="center">Deploy on CodesSpace</h4>
+    <p align="center">
+      <a href="https://github.com/codespaces/new">
+        <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces">
     
 </p>
 
@@ -111,7 +110,7 @@ Scan QR Code
 
 <p align="center" >
     <br>
-    __________________________
+   ❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣
     <br>
 </p>
 
