@@ -103,7 +103,8 @@
     "description": "Put packname;authorname.",
      "value": "ZEAL-MD;ZEAL",
      "required": false 
-	  
+
+  },
   "Always_Online": {
     "description": "Keep whatsapp contact 24hrs active",
      "value": "true",
