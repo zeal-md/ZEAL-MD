@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "ZEALGRAPHIX;ZEAL",
+     "value": "ZEAL-MD;ZEAL",
      "required": false 
 	  
   "Always_Online": {
