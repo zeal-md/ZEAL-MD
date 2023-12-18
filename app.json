@@ -94,22 +94,21 @@
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
          "value": "private"
   },
-      "AUTO_REACTION": {
+        "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
      "value": "false",
      "required": false 
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "ZEAL-MD;ZEAL",
+     "value": "Zeal-md;zealgraphix
      "required": false 
-
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
      "value": "true",
      "required": false 
-
+  }
 },
 "formation": {
 		"worker": {
