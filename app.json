@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Zeal-md;zealgraphix
+     "value": "Zeal;zealgraphix"
      "required": false 
   },
   "heroku": {
