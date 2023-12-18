@@ -103,12 +103,18 @@
     "description": "Put packname;authorname.",
      "value": "ZEALGRAPHIX;ZEAL",
      "required": false 
+	  
+  "Always_Online": {
+    "description": "Keep whatsapp contact 24hrs active",
+     "value": "true",
+     "required": false 
+
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
      "value": "true",
      "required": false 
-  }
+
 },
 "formation": {
 		"worker": {
