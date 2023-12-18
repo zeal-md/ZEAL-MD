@@ -1,14 +1,14 @@
 {
-  "name": "ZEAL-Md by excel ",
+  "name": "IZUKU-Md by excel ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/e14fe68dd6781cb1a6e81.jpg",
+  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "IzukuBot", "Secktor","IZUKUMD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "ZEAL-MD"
+      "value": "Izuku Midoriya"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/2b7d03f10266de86e0012.jpg"
+     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -54,7 +54,7 @@
      "value": "true"
     },
     "SUDO": {
-    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:2349138508805",
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:2347039570336",
      "required"  :false
     },
       "READ_MESSAGE": {
@@ -72,10 +72,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "2349138508805"
+       "value": "2347039570336"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@zealmd20/ZEAL-MD?v=1"
+    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -94,14 +94,14 @@
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
          "value": "private"
   },
-        "AUTO_REACTION": {
+      "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
      "value": "false",
      "required": false 
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Zeal;zealgraphix"
+     "value": "izuku;midoriya",
      "required": false 
   },
   "heroku": {
