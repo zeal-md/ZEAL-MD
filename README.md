@@ -37,7 +37,7 @@
 ---
 Scan QR Code
 
-1. ***Get `SESSION ID` by [`SCAN QR`](https://zealmdqr-2b624eb33a8e.herokuapp.com) or [`SCAN QR2`](https://zeal-md-x33v.onrender.com) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
+1. ***Get `SESSION ID` by [`SCAN QR`](https://zeal-md-x33v.onrender.com) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/Zeal-md/ZEAL-MD/fork)***
